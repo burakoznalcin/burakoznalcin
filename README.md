@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak Öznalçin</h1>
-<h3 align="center">Junior Software Developer</h3>
-
-- 🔭 I’m currently working on **PROTEIN**
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **.NET CORE / CQRS**
 
-- 💬 Ask me about **C#, .NET, SQL, CSS, HTML, BOOTSTRAP, JAVASCRIPT, JAVA**
+- 💬 Ask me about **C#, .NET, SQL, CSS, HTML, BOOTSTRAP, JAVASCRIPT, JAVA, BLAZOR**
 
 - 📫 How to reach me **burakoznalcn@icloud.com**
 
